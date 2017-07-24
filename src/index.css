@@ -1,0 +1,154 @@
+/*body {*/
+  /*margin: 0;*/
+  /*padding: 0;*/
+  /*font-family: sans-serif;*/
+/*}*/
+
+
+/*body {*/
+  /*margin: 0;*/
+  /*padding: 2em 0;*/
+  /*font-family: sans-serif;*/
+/*}*/
+
+.ui.menu.fluid.pagination {
+  width: 80%!important;
+}
+
+
+button {
+  margin: 0 .25em 0 0;
+}
+
+.headingTitle {
+  font-size: 32px;
+  font-family: "Lato";
+  color: rgb(68, 177, 223);
+  line-height: 1.562;
+  text-align: center;
+  -moz-transform: matrix( 0.99890732614917,0,0,0.99968996048799,0,0);
+  -webkit-transform: matrix( 0.99890732614917,0,0,0.99968996048799,0,0);
+  -ms-transform: matrix( 0.99890732614917,0,0,0.99968996048799,0,0);
+}
+
+
+.logoStyle {
+  margin: 15px;
+  text-align: center;
+}
+
+.submitBtn {
+  padding:0;
+  border: none;
+}
+
+.submitBtnWrapper {
+  text-align: center;
+}
+
+
+
+
+.text_inputs {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1654px;
+  height: 2672px;
+  z-index: 56;
+}
+
+.Ellipse_555 {
+  border-radius: 50%;
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  left: 671px;
+  top: 769px;
+  width: 6px;
+  height: 6px;
+  z-index: 53;
+}
+
+.error-text {
+  font-size: 13px;
+  font-family: "Lato";
+  color: rgb(255, 0, 0);
+  line-height: 3.846;
+  text-align: left;
+  position: absolute;
+  left: 660.938px;
+  top: 612.001px;
+  z-index: 59;
+}
+
+.form-field-text {
+  font-size: 20.5px;
+  /*color: rgb(101, 98, 98);*/
+  /*line-height: 3.125;*/
+  text-align: left;
+  margin: 1px;
+}
+
+.field_input {
+  border-style: solid;
+  border-width: 1.5px;
+  border-color: rgb(195, 195, 195);
+  background-color: rgb(242, 242, 242);
+  width: 100%;
+  height: 51.8px;
+  font-size: 20.5px;
+
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  padding: 15px;
+  color: #858080;
+
+}
+::-moz-placeholder { /* Firefox 19+ */
+  padding: 15px;
+  color: #858080;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  padding: 15px;
+  color: #858080;
+}
+:-moz-placeholder { /* Firefox 18- */
+  padding: 15px;
+  color: #858080;
+}
+
+.password_descptn {
+  display: inline-block;
+  font-size: 12px;
+  font-family: "Lato";
+  color: rgb(111, 111, 111);
+  line-height: 4.167;
+  text-align: left;
+  height: 10px;
+}
+
+.terms_of_Service {
+  font-size: 24px;
+  font-family: "Lato";
+  color: rgb(43, 43, 43);
+  font-weight: bold;
+  text-align: left;
+  margin: 0;
+}
+
+.terms {
+  font-size: 14px;
+  font-family: "Lato";
+  color: rgb(111, 111, 111);
+  line-height: 3.571;
+  text-align: left;
+  display: inline;
+  margin-left: 5px;
+}
+
+a.underlined  {
+  text-decoration: double ;
+  border-bottom: 1px solid cadetblue;
+}
+
